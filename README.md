@@ -1,3 +1,3 @@
 # Network-PC-Monitoring-and-Control
-Network PC Monitoring and Control 
-...Basically it is used for detection and monitoring the client/User PC 
+ The Network PC Monitoring and Control is a Network application which is created for 
+managing Client System which Connected with Server i.e usually used for detection and monitoring.
